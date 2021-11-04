@@ -20,6 +20,8 @@
 <a href="https://hub.docker.com/layers/mysql/library/mysql/8.0.27/images/sha256-975b3b1a6df6bf66221d1702b76c4141a4cd09f93f22f70c32edc99a6c256fe8?context=explore">MySQL</a>
 </div>
 
+<br>
+
 <div  align="center">
 <p> 
 Esse projeto fornece um ponto de partida para integrar diferentes serviços usando um arquivo Compose!
@@ -27,9 +29,20 @@ Esse projeto fornece um ponto de partida para integrar diferentes serviços usan
 </div>
 
 <div  align="center">
-<h3>Containers utilizados</h3>
-<div>
-<code> 🐘 PHP 8.0.11</code>
-<code> ☁ Nginx 1.21.3</code>
-<code> 📁 MySQL 8.0.27</code>
+	<h3>Containers utilizados</h3>
+		<div>
+			<code> 🐘 PHP 8.0.11</code>
+			<code> ☁ Nginx 1.21.3</code>
+			<code> 📁 MySQL 8.0.27</code>
+		</div>
+</div>
+
+<br>
+
+<div  align="center" style="display: flex;">
+<h3>Contribuidor</h3>
+	<a href="https://github.com/nicollasfeitosa"> 
+		<img src="https://avatars.githubusercontent.com/u/52557321?v=4" width="60px;" alt="Foto do Nicollas"/> <br>
+		<sub> <b>Nicollas Feitosa</b> </sub> 
+	</a> 
 </div>

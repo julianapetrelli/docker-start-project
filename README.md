@@ -1,26 +1,35 @@
-# Docker-compose 
-Um repositório para clonar e iniciar seus projetos php e docker! Configurado por um arquivo docker-compose com tudo que você precisa para iniciar um projeto PHP 8!
+<div  align="center">
+	<h1>Docker-compose</h1>
+</div>
 
-### Containers
+<div  align="center">
+<img src="https://i.imgur.com/zkga8Ti.png" alt="Girl in a jacket" width="160"  height="200">
+</div>
 
- - PHP 8.0.11
- - Nginx 1.21.3
- - MySQL 8.0.27
+<br>
 
-### Requirements
+<div align="center">
+<a href="https://docs.docker.com/engine/install/ubuntu/">Docker</a> 
+<span> | </span>
+<a href="https://docs.microsoft.com/pt-br/windows/wsl/install">WSL2</a>
+<span> | </span>
+<a href="https://hub.docker.com/layers/php/library/php/8.0.11-fpm/images/sha256-524fe4c766dee90dbb22d6bd32dcb65aedf5ea042a88442be17b0d616ce8c422?context=explore">PHP</a>
+<span> | </span>
+<a href="https://hub.docker.com/layers/nginx/library/nginx/1.21.3/images/sha256-bb1416167bc0274d8ad2eadaef292880f59a9fa67dd3dd2149a48f9ab6f3bb79?context=explore">Nginx</a>
+<span> | </span>
+<a href="https://hub.docker.com/layers/mysql/library/mysql/8.0.27/images/sha256-975b3b1a6df6bf66221d1702b76c4141a4cd09f93f22f70c32edc99a6c256fe8?context=explore">MySQL</a>
+</div>
 
-Apenas docker e docker-compose instalados!
+<div  align="center">
+<p> 
+Esse projeto fornece um ponto de partida para integrar diferentes serviços usando um arquivo Compose!
+ </p>
+</div>
 
-### Artigos que li para escrever neste repositório
-
-- [nicollasfeitosa/php-docker-start: PHP8 + Postgres + Nginx docker compose file to start a PHP project (github.com)](https://github.com/nicollasfeitosa/php-docker-start)
-
- - [Criando um ambiente de desenvolvimento PHP mínimo com Docker – Parte
-   1 |
-   iMasters](https://imasters.com.br/php/criando-um-ambiente-de-desenvolvimento-php-minimo-com-docker-pt-1)
-   
- - [Criando um ambiente de desenvolvimento PHP mínimo com Docker – Parte
-   2 |
-   iMasters](https://imasters.com.br/php/criando-um-ambiente-de-desenvolvimento-php-minimo-com-docker-parte-2)
-- [Criando um ambiente de desenvolvimento PHP mínimo com Docker – Parte 3 | iMasters](https://imasters.com.br/php/criando-um-ambiente-de-desenvolvimento-php-minimo-com-docker-p3)
-
+<div  align="center">
+<h3>Containers utilizados</h3>
+<div>
+<code> 🐘 PHP 8.0.11</code>
+<code> ☁ Nginx 1.21.3</code>
+<code> 📁 MySQL 8.0.27</code>
+</div>
